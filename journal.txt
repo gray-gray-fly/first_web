@@ -1,1 +1,3 @@
-day1 It builds this catalog and push this repository to github.done by 2020/8/1
+day1 It builds this catalog and push this repository to github.done 
+day2 It builds up the framework and revises client and service section
+                                                              by 2020/8/1
